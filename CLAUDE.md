@@ -280,3 +280,11 @@ Optional (uses local models by default):
 - `HINDSIGHT_API_EMBEDDINGS_PROVIDER`: local (default) or tei
 - `HINDSIGHT_API_RERANKER_PROVIDER`: local (default) or tei
 - `HINDSIGHT_API_DATABASE_URL`: External PostgreSQL (uses embedded pg0 by default)
+
+---
+
+For company-wide development standards, see the main CLAUDE.md at ~/Desktop/CLAUDE.md.
+
+---
+
+@Developed & Documented by Glass Box Solutions, Inc. using human ingenuity and modern technology
