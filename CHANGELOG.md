@@ -8,6 +8,11 @@ All notable changes to this project are documented here. Entries are auto-genera
 ---
 
 <!-- SQUEEGEE:AUTO:START changelog-entries -->
+### 2026-02-20
+
+**Maintenance:**
+- **docs:** add Squeegee-generated documentation (`71acc3d`)
+
 ### 2026-02-18
 
 **Documentation:**
@@ -765,124 +770,6 @@ All notable changes to this project are documented here. Entries are auto-genera
 **Other:**
 - Fix docker issues and dependencies (`bffd69e`)
 - Fix dependencies and docker (`9b36a3a`)
-
-### 2025-11-21
-
-**Other:**
-- add cli config and mcp (`4ffef6c`)
-
-### 2025-11-20
-
-**Other:**
-- merge mcp (`536da41`)
-
-### 2025-11-19
-
-**Other:**
-- more (`99a54ae`)
-
-### 2025-11-18
-
-**Other:**
-- openai and langmem integrations (`aa35223`)
-
-### 2025-11-17
-
-**Other:**
-- t5 (`5ab7769`)
-- t5 (`b894e81`)
-- temporal (`b095a38`)
-- temporal (`1b29635`)
-
-### 2025-11-14
-
-**Other:**
-- temporal offset and others (`e15cbb4`)
-- papers and fixes (`3e618cb`)
-
-### 2025-11-13
-
-**Other:**
-- fix agnts (`f521b36`)
-- fix startup (`3f22dfc`)
-- fix startup (`8f25fc8`)
-- fix startup (`dbac10a`)
-- Release v0.0.7 (`dbdcf47`)
-- refactori api (`28e28d5`)
-- add profiles (`c82fff9`)
-
-### 2025-11-11
-
-**Other:**
-- Release v0.0.5 (`9edf430`)
-- fix space (`47d08de`)
-- Release v0.0.4 (`434d869`)
-- mcp server (`e0a33f5`)
-- Release v0.0.3 (`fb45440`)
-- update gh actions (`7d8e1fc`)
-- Release v0.0.2 (`3e2a565`)
-- update gh actions (`6024321`)
-- Release v0.0.1 (`7960d9f`)
-- update gh actions (`49d9b4b`)
-- polish + cli + helm + standalone (`5880651`)
-
-### 2025-11-10
-
-**Other:**
-- standalone and fix (`a1c5f98`)
-- reorder files (`646dea8`)
-- lot of improvements (`ada9562`)
-
-### 2025-11-07
-
-**Other:**
-- improve moniitoring (`be8570d`)
-- improve moniitoring (`cfafd2f`)
-- add pending ops (`bff72ca`)
-- fixes (`0f33c80`)
-- fixes (`5d32e79`)
-- fixes (`7a9f4ee`)
-- fix iuo (`27bb335`)
-- fix web init (`18c7e08`)
-
-### 2025-11-06
-
-**Other:**
-- bm25 and re-rankers (`fcc5250`)
-
-### 2025-11-05
-
-**Other:**
-- local setup and speed (`39801d9`)
-- perf think improvements (`d8fdbb9`)
-- perf think improvements (`ba048ff`)
-
-### 2025-11-04
-
-**Other:**
-- cleanup (`45b3a68`)
-
-### 2025-11-03
-
-**Other:**
-- emb abstraction (`1b7e0bc`)
-- emb abstraction (`992faa4`)
-- memora (`7d8d07d`)
-- think feat (`42260c2`)
-
-### 2025-10-31
-
-**Other:**
-- more fixes (`d8d48d6`)
-- mrr and links reinforcement (`b3259d2`)
-- improvements benchmark and perf (`75f40fc`)
-
-### 2025-10-30
-
-**Other:**
-- improvements async (`8c698d6`)
-- improvements (`bc7d9fe`)
-- initial commit (`6d7223b`)
 <!-- SQUEEGEE:AUTO:END changelog-entries -->
 
 ---

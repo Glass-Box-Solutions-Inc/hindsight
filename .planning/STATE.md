@@ -40,11 +40,7 @@
 ## Recent Activity
 
 <!-- SQUEEGEE:AUTO:START recent-activity -->
-- `2026-02-18` update CLAUDE.md
-- `2026-02-09` Add Supabase tenant extension as built-in (#267)
-- `2026-02-09` do not log db user/password (#312)
-- `2026-02-09` add docker-compose example (#313)
-- `2026-02-09` prevent memory wipe on every session (#323)
+- `2026-02-20` **chore:** add Squeegee-generated documentation
 <!-- SQUEEGEE:AUTO:END recent-activity -->
 
 ---
